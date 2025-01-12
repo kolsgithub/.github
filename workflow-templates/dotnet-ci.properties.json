@@ -1,13 +1,13 @@
 {
     "name": "koldgithub Organization Workflow",
     "description": "koldgithub Organization CI workflow template.",
-    "iconName": "dotnet",
+    "iconName": "octicon zap",
     "categories": [
-        "kolsgithub-dotnet"
+        "continuous-integration"
     ],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
-        ".*\\.md$"
+        ".*\\.csproj$"
     ]
 }
